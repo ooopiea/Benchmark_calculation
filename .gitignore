@@ -1,0 +1,53 @@
+# ===================
+# Data Files
+# ===================
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+
+# ===================
+# Python Environment
+# ===================
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# ===================
+# MATLAB
+# ===================
+*.asv
+*.p
+
+# ===================
+# Editor & IDE
+# ===================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===================
+# OS
+# ===================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ===================
+# Intent Engine (local)
+# ===================
+.intent-engine/
+
+# ===================
+# Claude (local)
+# ===================
+.claude/
+
+# ===================
+# Python lock files (optional)
+# ===================
+*.lock
